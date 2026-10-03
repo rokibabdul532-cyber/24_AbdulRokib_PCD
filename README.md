@@ -1,6 +1,6 @@
 # Tugas Praktikum - Google Colab
 
-**Nama:**M. Abdul Rokib
+**Nama:** M. Abdul Rokib
 **NIM:** [24552021022]
 
 ## Deskripsi
